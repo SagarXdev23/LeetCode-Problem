@@ -7,4 +7,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
