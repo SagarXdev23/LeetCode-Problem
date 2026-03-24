@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2293-min-max-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/2293-min-max-game/) | Easy |
 ## Prefix Sum
@@ -17,4 +18,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2293-min-max-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/2293-min-max-game/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
