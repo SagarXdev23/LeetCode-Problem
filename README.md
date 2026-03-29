@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -48,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
