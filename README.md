@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -37,11 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,8 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
