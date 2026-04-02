@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
