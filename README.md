@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
 | [2293-min-max-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/2293-min-max-game/) | Easy |
 ## Two Pointers
@@ -84,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
