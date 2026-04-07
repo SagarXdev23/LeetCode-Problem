@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
 | [2293-min-max-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/2293-min-max-game/) | Easy |
 ## Prefix Sum
@@ -89,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0657-robot-return-to-origin/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
