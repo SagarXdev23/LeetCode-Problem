@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
+| [2235-add-two-integers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/2235-add-two-integers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
