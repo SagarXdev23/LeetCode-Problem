@@ -82,10 +82,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -103,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
