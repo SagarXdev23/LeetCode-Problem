@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0088-merge-sorted-array/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
