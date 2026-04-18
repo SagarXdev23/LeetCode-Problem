@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
