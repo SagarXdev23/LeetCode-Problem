@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0322-coin-change](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0322-coin-change/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0322-coin-change](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0322-coin-change/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
