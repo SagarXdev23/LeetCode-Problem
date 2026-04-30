@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Matrix
