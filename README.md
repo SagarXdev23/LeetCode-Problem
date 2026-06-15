@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
