@@ -103,11 +103,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0322-coin-change/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Graph Theory
@@ -133,10 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
