@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
@@ -180,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0169-majority-element/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
