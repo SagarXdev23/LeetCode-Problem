@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/2235-add-two-integers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
