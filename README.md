@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0053-maximum-subarray/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
