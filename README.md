@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Simulation
