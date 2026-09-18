@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0088-merge-sorted-array/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
