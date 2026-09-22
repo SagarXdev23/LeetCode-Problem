@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/1929-concatenation-of-array/) | Easy |
 | [2293-min-max-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/2293-min-max-game/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0002-add-two-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0169-majority-element/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
