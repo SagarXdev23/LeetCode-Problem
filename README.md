@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0322-coin-change/) | Medium |
 ## Hash Table
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0541-reverse-string-ii/) | Easy |
