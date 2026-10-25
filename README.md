@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0205-isomorphic-strings](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
