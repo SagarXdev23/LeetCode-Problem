@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Matrix
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
