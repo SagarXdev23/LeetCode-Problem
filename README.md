@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0322-coin-change/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SagarXdev23/LeetCode-Problem/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
